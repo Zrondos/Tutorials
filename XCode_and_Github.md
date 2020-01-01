@@ -1,4 +1,4 @@
-# How to connect XCode with Github
+# How to connect XCode with Github 
 
 ## Let's connect XCode to our Github.
 1. Launch XCode. Click XCode in the top left corner, > Preferences.
